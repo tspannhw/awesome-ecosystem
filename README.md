@@ -1,2 +1,7 @@
 # awesome-ecosystem
-My friends
+
+
+
+## forums
+
+* https://www.trinoforum.org/
